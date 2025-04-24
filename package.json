@@ -1,6 +1,6 @@
 {
   "name": "node-dynamic-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A dynamic logging utility for Node.js applications with configurable log levels and file output",
   "main": "index.js",
   "scripts": {
