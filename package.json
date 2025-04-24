@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/dynamic-logger.git"
+    "url": "git+https://github.com/akshaymardiya/node-dynamic-logger.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/dynamic-logger/issues"
+    "url": "https://github.com/akshaymardiya/node-dynamic-logger/issues"
   },
-  "homepage": "https://github.com/your-username/dynamic-logger#readme"
+  "homepage": "https://github.com/akshaymardiya/node-dynamic-logger#readme"
 }
